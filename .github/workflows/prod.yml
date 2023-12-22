@@ -5,7 +5,7 @@ name: "Ajio prod-app image build and deploy"
 on:
   push:
     branches:
-      - production
+      - prod
 jobs:
 
   build:
